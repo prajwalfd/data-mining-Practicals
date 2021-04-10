@@ -186,17 +186,17 @@ hierarchical_clustering(data,"single",1)
 # [0, 1, 2, 3, 4, 5]
 
 ######### graphs1 with each cluster forming will be displayed in here
-[0, 1, 2, 3, 4, 2]
+# [0, 1, 2, 3, 4, 2]
 ######### graphs2 with each cluster forming will be displayed in here
 
-[0, 1, 2, 3, 1, 2]
+# [0, 1, 2, 3, 1, 2]
 ######### graphs3 with each cluster forming will be displayed in here
 
-[0, 1, 1, 3, 1, 1]
+# [0, 1, 1, 3, 1, 1]
 ######### graphs4 with each cluster forming will be displayed in here
 
-[0, 1, 1, 1, 1, 1]
+# [0, 1, 1, 1, 1, 1]
 ######### graphs5 with each cluster forming will be displayed here
 
-[0, 0, 0, 0, 0, 0]
+# [0, 0, 0, 0, 0, 0]
 ######### graphs 6 with each cluster forming will be displayed here
